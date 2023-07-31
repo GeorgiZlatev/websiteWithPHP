@@ -19,7 +19,7 @@
          <br><input type="checkbox" id="subscribe" name="subscribe" value="Subscribe">
          <label for="subscribe">Subscribe</label>
          
-         <input type="submit" class="burron next" name="contact_subimt" valu="Send Message"> 
+         <input type="submit" class="button next" name="contact_subimt" valu="Send Message"> 
          
 
      </form>
